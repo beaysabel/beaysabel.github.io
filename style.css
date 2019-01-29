@@ -1,0 +1,53 @@
+h2 {
+    color:#FF928B;
+}
+body {
+    background-color:#EFE9AE;
+}
+.container{
+    background-color:#FDFCFF;
+}
+
+
+/*left col*/
+.deepee {
+    border-radius: 50%;
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-bottom: 2em;
+    margin-right: 2em;
+}
+
+#left-col {
+    background-color: #FEC3A6;
+    height: 100vh;
+    
+}
+h2 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
+h4 {
+    color: #CDEAC0
+}
+a {
+    color: #FF928B;
+}
+
+
+/*right column*/
+#right-col {
+    margin-left: 10em
+}
+#Education {
+    margin-top:2em;
+}
+h5 {
+    font-size: 1.2em;
+    color: #FFAC81;
+}
